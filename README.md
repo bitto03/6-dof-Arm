@@ -5,11 +5,11 @@ This project features a 6 Degrees of Freedom (DOF) robotic arm built using 3D-pr
 The robotic arm can be controlled in real-time through a desktop interface built with Tkinter, which sends servo angle values via serial communication to the Arduino.
 
 # Hardware Components
-1.Arduino Uno (or compatible)
-2.6x Servo Motors
-3.Expansion shield (Sensor Shield v5 or similar – optional but recommended)
-4.Jumper wires (Male-Female)
-5.USB cable for Arduino-PC connection
+Arduino Uno (or compatible),
+6x Servo Motors,
+Expansion shield (optional but recommended),
+Jumper wires (Male-Female),
+USB cable for Arduino-PC connection.
 
 
 # Wiring / Connection
